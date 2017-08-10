@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="recsys:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="recsys.war">
+      <element id="artifact" artifact-name="recsys:war exploded" />
+    </root>
+  </artifact>
+</component>
